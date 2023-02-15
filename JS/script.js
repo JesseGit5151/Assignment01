@@ -43,8 +43,8 @@
 // console.log(num)
 
 //Step 8
-// let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."';
-// window.console.log(someString);
+// let someString = `Who once said, "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."`;
+// console.log(someString);
 
 //Step 9
 // let score = null;
